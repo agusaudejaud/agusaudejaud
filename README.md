@@ -1,5 +1,7 @@
 # Hola, Soy Agustin Saudejaud.
-##
+
+
+## Comandos terminal.
 | COMANDO  | DESCRIPCION  
 |---|---|
 | ls | Listar el contenido del directorio |
