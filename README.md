@@ -8,11 +8,11 @@
 - 🟢REACTJS
 
 ## Mis estudios y hobbies.
-🎓 Estudiante de Tecnicatura Superior en Análisis y Desarrollo de Software.
-📚 Me encanta el trading y las criptomonedas.
+- Aprendido en el bootcamp de Javascript por Guillermo Rodas.
+- Estudiante de Tecnicatura Superior en Análisis y Desarrollo de Software.🎓 
+-  Me encanta el trading y las criptomonedas.📚
 
-##Contacto.
-✉ Gmail: agusaudejaud@gmail.com
-🌐Github: https://github.com/agusaudejaud
+## Contacto.
+ - ✉ **Gmail**: agusaudejaud@gmail.com
+ - 🌐**Github**: https://github.com/agusaudejaud
 
-!Saludos y muchas gracias por pasarte por Aquí🤠¡
