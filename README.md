@@ -1,19 +1,18 @@
 # Hola, Soy Agustin Saudejaud.
 
 
-### Comandos terminal.
-| COMANDO  | DESCRIPCION |
-|---|---|
-| `ls` | *Listar el contenido del directorio.* |
-| `cd` | *Nos permite navegar entre carpetas.* |
-| `pwd` | *Imprimir directorio de trabajo.* |
-| `mkdir` | *crea una nueva carpeta dado un nombre para esa carpeta.* |
-| `cp-r` | *Nos permite eliminar una carpeta dada una ruta.* |
+## Me dedico al desarrollo de Tecnologiás como
+-🔵HTML
+-🟣CSS
+-🟡JAVASCRIPT 
+-🟢REACTJS
 
-### Comandos Alias.
-| COMANDO  | DESCRIPCION |
-|---|---|
-| `alias status='git status'` | *Añade todos los cambios del directorio de trabajo en el entorno de ensayo. De este modo, indica a Git que quieres incluir actualizaciones en un archivo concreto en la próxima confirmación.* |
-| `alias status='git status'` | *Muestra el estado del directorio de trabajo y del área del entorno de ensayo. Permite ver los cambios que se han preparado, los que no y los archivos en los que Git no va a realizar el seguimiento.* |
+## Mis estudios y hobbies
+🎓 Estudiante de Tecnicatura Superior en Análisis y Desarrollo de Software.
+📚 Me encanta el trading y las criptomonedas.
 
+##Contacto
+✉ Gmail: agusaudejaud@gmail.com
+🌐Github: https://github.com/agusaudejaud
 
+!Saludos y muchas gracias por pasarte por Aquí🤠¡
